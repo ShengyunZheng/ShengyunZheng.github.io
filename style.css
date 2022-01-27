@@ -4,7 +4,7 @@ body {
   text-align: center;}
 h1 {
   color: #000000;
-  border: 5px solid #418FFB;
-  height: 5px;
+  border: solid #418FFB;
+  height: auto;
   width: auto;
   }
