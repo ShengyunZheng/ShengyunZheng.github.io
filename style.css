@@ -9,4 +9,5 @@ p {
 .links {
   display: flex;
   justify-content: center;
-  margin: 10 em;}
+  padding: 10 em;
+  font-size: 25px;}
