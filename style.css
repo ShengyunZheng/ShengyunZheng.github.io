@@ -5,5 +5,7 @@ h1 {
   color: #000000;
   text-decoration: underline;}
 p {
-  text-align: center;
-  
+  text-align: center;}
+.links {
+  display: flex;
+  justify-content: center;}
