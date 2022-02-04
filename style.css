@@ -6,8 +6,21 @@ h1 {
   text-decoration: underline;}
 p {
   text-align: center;}
-.links {
+.first {
   display: flex;
-  justify-content: center;
+  justify-content: right;
   padding: 10 em;
+  margin: 10 em;
+  font-size: 25px;}
+.second {
+  display: flex;
+  justify-content: left;
+  padding: 10 em;
+  margin: 10 em;
+  font-size: 25px;}
+.second {
+  display: flex;
+  justify-content: right;
+  padding: 10 em;
+  margin: 10 em;
   font-size: 25px;}
