@@ -8,4 +8,5 @@ p {
   text-align: center;}
 .links {
   display: flex;
-  justify-content: center;}
+  justify-content: center;
+  margin: 10 em;}
