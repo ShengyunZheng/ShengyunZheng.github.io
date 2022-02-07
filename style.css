@@ -15,11 +15,8 @@ p {
   justify-content: center;}
 #container {
   background: #91BFFF;
-  width:800px;
+  width:80px;
   padding:1em;
-  display: block;
-  justify-content:center;}
-body {
-  background-image: url("https://c4.wallpaperflare.com/wallpaper/256/295/816/makoto-shinkai-anime-wallpaper-preview.jpg");
-  width: 50em;
-  height:50em;}
+  text-align:center;
+  inline:block;}
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/256/295/816/makoto-shinkai-anime-wallpaper-preview.jpg");}
