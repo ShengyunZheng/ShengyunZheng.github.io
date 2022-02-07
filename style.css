@@ -16,6 +16,10 @@ p {
 #container {
   background: #91BFFF;
   width:800px;
-  padding:1em;}
+  padding:1em;
+  display: block;
+  justify-content:center;}
 body {
-  background-image: url("https://c4.wallpaperflare.com/wallpaper/256/295/816/makoto-shinkai-anime-wallpaper-preview.jpg");}
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/256/295/816/makoto-shinkai-anime-wallpaper-preview.jpg");
+  width: 50em;
+  height:50em;}
