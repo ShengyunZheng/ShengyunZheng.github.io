@@ -15,7 +15,10 @@ p {
   justify-content: center;}
 #container {
   background: #91BFFF;
-  width:800px;
-  padding:1em;}
+  padding:1em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%}
 body {
   background-image: url("https://www.desktopbackground.org/download/o/2014/11/22/859879_chill-out-wallpapers-hd-images_1920x1080_h.jpg");}
