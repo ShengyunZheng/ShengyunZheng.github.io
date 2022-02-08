@@ -1,18 +1,23 @@
 h1 {
   text-align: center;
   color: #000000;
-  text-decoration: underline;}
+  text-decoration: underline
+  text-size: 100px;}
 p {
-  text-align: center;}
+  text-align: center;
+  text-size: 50px;}
 .first {
   display: flex;
-  justify-content: center;}
+  justify-content: center;
+  text-size: 100px;}
 .second {
   display: flex;
-  justify-content: center;}
+  justify-content: center;
+  text-size: 100px;}
 .third {
   display: flex;
-  justify-content: center;}
+  justify-content: center;
+  text-size: 100px;}
 #container {
   background: #91BFFF;
   padding:1em;
