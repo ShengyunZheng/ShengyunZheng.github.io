@@ -6,18 +6,9 @@ h1 {
 p {
   text-align: center;
   font-size: 15px;}
-.first {
+.columnone {
   flex: 33.33%;
-  padding: 5px;
-  font-size: 30px;}
-.second {
-  flex: 33.33%;
-  padding: 5px;
-  font-size: 30px;}
-.third {
-  flex: 33.33%;
-  padding: 5px;
-  font-size: 30px;}
+  padding: 5px;}
 .row {
   display: flex;}
 #container {
