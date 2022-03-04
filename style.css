@@ -7,13 +7,16 @@ p {
   text-align: center;
   font-size: 15px;}
 .first {
-  justify-content: center;
+  flex: 33.33%;
+  padding: 5px;
   font-size: 30px;}
 .second {
-  justify-content: center;
+  flex: 33.33%;
+  padding: 5px;
   font-size: 30px;}
 .third {
-  justify-content: center;
+  flex: 33.33%;
+  padding: 5px;
   font-size: 30px;}
 .row {
   display: flex;}
